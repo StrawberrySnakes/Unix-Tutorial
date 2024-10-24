@@ -14,12 +14,12 @@
         </figure>
         <nav class="links" id="navLinks">
 
-        <?php
+        <?php 
         // Connect to MySQ
         $servername = 'localhost';
-        $username = 'iste240t10';
+        $username = 'djs9826';
         $password = 'Adrenosterone5^sensations';
-        $dbname = 'iste240t10';
+        $dbname = 'djs9826';
         $conn = new mysqli($servername, $username, $password, $dbname);
 
         // Check connection
